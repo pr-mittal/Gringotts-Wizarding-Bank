@@ -1,0 +1,4 @@
+vspe-pairing start(COM4(proteus-comimp),COM1-blynk)
+Start blnk.ser with command in command prompt
+blynk-ser.bat -c com1 -p 8442
+Start proteus simulation
