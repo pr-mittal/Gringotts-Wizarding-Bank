@@ -1,0 +1,22 @@
+#include "SoftwareSerial.h"
+ 
+SoftwareSerial blue(2,3) ; // rx , tx 
+SoftwareSerial gsm(7,8); // rx , tx 
+ 
+void setup()
+{
+Serial.begin(9600); 
+blue.begin(9600); 
+gsm.begin(9600); 
+  
+}
+ 
+void loop()
+ 
+{
+  
+  Serial.println(" message from Computer"); 
+  blue.println(" message from bluetooth"); 
+  gsm.println(" message from gsm module"); 
+  delay(1000); 
+}
