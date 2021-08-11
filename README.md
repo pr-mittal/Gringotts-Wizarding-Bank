@@ -55,7 +55,8 @@ Button -> Digital Pin 23
 
 Terminal -> V0
 
-![image](https://user-images.githubusercontent.com/56964828/126817748-09fe1557-6f60-40f0-b961-e5a3a9ef89b6.png)
+![image](https://user-images.githubusercontent.com/56964828/129022980-8c28e56c-bc0c-4b45-9d51-c11eee4ab32e.png)
+![image](https://user-images.githubusercontent.com/56964828/129022994-7f8e99d6-8377-44a4-ba81-57241be5bcc2.png)
 
 #### Installation Instructions : 
 
